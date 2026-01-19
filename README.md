@@ -13,7 +13,12 @@ Fully 3D-printable components for connectors, trigger, and internal parts
 Bill of Materials
 
 3D-printed parts (STL files included)
-DN50 HT pipe (inner barrel)
+
+DN50 PVC-U pipe (DIN8061/8062 -> inner housing) 50mm (outer), 42,6mm (inner) 3,7mm thikness
+[Hornbach](https://www.hornbach.de/p/50mm-x-3-7mm-pvc-druckrohr-1m-16bar/12343587/)
+
+[Kulano](https://www.kulano.store/de/pvc-u-rohr-1-meter-laenge-ksxks-d-50mm-x-3-7mm-wandstaerke.html)
+
 DN75 HT pipe (outer housing)
 Rubber bands (up to 5 mm wide)
 M4 screws and nuts
